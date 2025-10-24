@@ -9,7 +9,7 @@ My code is essentially a very complex and even arcane wrapper for GPT-3.5 (the O
 
 ## What the code contains:
 
-* a set of "characters" (e.g., a monosyllabic mountain, a Latvian architect), with various dispositions, favorite words and phrases, and interests
+* a set of "characters" (e.g., a monosyllabic mountain, a Latvian architect), with various dispositions, favorite words aknd phrases, and interests
 * a set of topics of conversations
 * a set of paintings and artworks that characters may stumble/remark upon
 * a set of psychotropic spells that transform the character or the character's speech in some way
