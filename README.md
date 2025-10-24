@@ -1,4 +1,4 @@
-# Salon des Fantômes
+# Android studios
 
 This is the repo for the code that I used to write *Salon des Fantômes: Or, Streptohormetic Prompt Engineering for the Production of a Jagged Noetic Substrate* (Inside the Castle 2024).  This book documents a philosophical/artistic salon at which I was the only non-AI attendee.   
 
